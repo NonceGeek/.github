@@ -15,6 +15,7 @@ Cool-Oriented Web3 Programming, 面向炫酷编程.
 
 - [🌏 Website](https://noncegeek.com)
 - [Competition List](https://github.com/orgs/WeLightProject/projects/4/views/1)
+- [TaiShang Micro FaaS System](https://faas.noncegeek.com/)
 - [NFT Gallery](https://gallery.noncegeek.com/)
 - [DAO Kanban](https://dao.noncegeek.com/)
 - [Camp&Workshop](https://github.com/WeLightProject/Web3-dApp-Camp/discussions)
