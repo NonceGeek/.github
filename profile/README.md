@@ -14,7 +14,9 @@
 Cool-Oriented Web3 Programming, 面向炫酷编程.
 
 - [🌏 Website](https://noncegeek.com)
+
 - [Camp&Workshop](https://github.com/WeLightProject/Web3-dApp-Camp/discussions)
+- [MoveDID](https://movedid.build)
 - [TaiShang Micro FaaS System](https://faas.noncegeek.com/)
 
 
