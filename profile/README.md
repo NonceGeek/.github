@@ -25,4 +25,8 @@ Cool-Oriented Web3 Programming, 面向炫酷编程.
 - [Competition List](https://github.com/orgs/WeLightProject/projects/4/views/1)
 - [DAO Kanban](https://dao.noncegeek.com/)
 
+Article List:
+
+> https://learnblockchain.cn/column/2
+
 
