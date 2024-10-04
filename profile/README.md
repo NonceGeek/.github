@@ -20,7 +20,7 @@ Cool-Oriented Web3 Programming, 面向炫酷编程.
 
 
 - [Indiehacker Handbook](https://indiehacker.rootmud.xyz)
-- [Indiehacker Accelerator]([https://github.com/WeLightProject/Web3-dApp-Camp/discussions](https://github.com/orgs/NonceGeek/discussions)
+- [Indiehacker Accelerator](https://github.com/orgs/NonceGeek/discussions)
 - [TaiShang Micro FaaS System](https://faas.movespace.xyz/)
 - [MoveDID](https://movedid.build)
 - [🌏 Homepage of NonceGeekDAO](https://noncegeek.com)
