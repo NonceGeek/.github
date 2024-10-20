@@ -34,6 +34,7 @@ Article List:
 
 > https://learnblockchain.cn/column/2
 
+
 <!-- Hackathons -->
 
 ##  Hackathons
@@ -44,7 +45,7 @@ Article List:
 * 2024 - Aptos Micro Grant R4 - Scaffold-APT & Scaffold-APT-Examples
 * 2024 - Aptos Micro Grant R3 - Scaffold-Aptos-based-on-AI
 * 2024 - Aptos Micro Grant R2 - Move-Airdropper-Based-On-Github
-* 2024 - Aptos Micro Grant R1 - MoveDID
+* 2023 - Aptos Micro Grant R1 - MoveDID
 * 2023 - BeWater Hackathon Safty Track - Move E2E Test Tool
 * 2023 - Sui HK BuilderHouse 2nd - web3_mud_ex
 * 2022 - Thuba DAO Infra 1st - TaiShangMicroFaaS
@@ -55,11 +56,22 @@ Article List:
 
 <!-- /Hackathons -->
 
+<!-- Accelerator -->
+
+## Accelerator
+
+* 2024 - SprignX R2 - Aptoscraft
+* 2023 - SpringX R1 - dataI AI Kit
+
+
+<!-- /Accelerator -->
+
 <!-- Grants -->
 
 ## Grants
 
 * Grant from Hashkey for On-chain-game Map Editor
 * Grant from Aptos for [MoveDID](https://github.com/movedid)
+* Grant from Arweave for [arweave-based GPT Bot](https://arweave.noncegeek.com)
 
 <!-- /Grants -->
