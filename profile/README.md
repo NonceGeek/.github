@@ -58,7 +58,7 @@ Article List:
 
 <!-- Accelerator -->
 
-## Accelerator
+## Accelerators
 
 * 2024 - SprignX R2 - Aptoscraft
 * 2023 - SpringX R1 - dataI AI Kit
