@@ -16,9 +16,13 @@
 
 Cool-Oriented Web3 Programming, 面向炫酷编程.
 
+Power all the indiehackers, 助力所有独立开发者
+
+Founder: [leeduckgo](https://github.com/leeduckgo), [twitter](https://x.com/0xleeduckgo)
+
 - [Projects Panel](https://projects.noncegeek.com/)
 
-
+- [BeWater Hackathon Platform & Open Buidler Network](https://bewater.xyz)
 - [Indiehacker Handbook](https://indiehacker.rootmud.xyz)
 - [Indiehacker Accelerator](https://github.com/orgs/NonceGeek/discussions)
 - [TaiShang Micro FaaS System](https://faas.movespace.xyz/)
