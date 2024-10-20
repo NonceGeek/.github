@@ -34,4 +34,32 @@ Article List:
 
 > https://learnblockchain.cn/column/2
 
+<!-- Hackathons -->
 
+##  Hackathons
+
+* 2024 - ShangHai Bethink Hackathon - Buidler Analyzer & Community Verifier
+* 2024 - ShenZhen ETH Hackathon - Bodhi-based GPT Bot
+* 2024 - Arweave Game Jam - dimensionLife
+* 2024 - Aptos Micro Grant R4 - Scaffold-APT & Scaffold-APT-Examples
+* 2024 - Aptos Micro Grant R3 - Scaffold-Aptos-based-on-AI
+* 2024 - Aptos Micro Grant R2 - Move-Airdropper-Based-On-Github
+* 2024 - Aptos Micro Grant R1 - MoveDID
+* 2023 - BeWater Hackathon Safty Track - Move E2E Test Tool
+* 2023 - Sui HK BuilderHouse 2nd - web3_mud_ex
+* 2022 - Thuba DAO Infra 1st - TaiShangMicroFaaS
+* 2021 - 万向黑客松二等奖 - On-Chain Game Map Editor
+* 2021 - Polkadot 黑客松二等奖 - TaiShang NFT Parser
+* 2021 - 第五届中国区块链开发大赛二等奖 - WeLightOS
+* 2020 - 第四届中国区块链开发大赛二等奖 - FISCO BCOS Smart Toolbox
+
+<!-- /Hackathons -->
+
+<!-- Grants -->
+
+## Grants
+
+* Grant from Hashkey for On-chain-game Map Editor
+* Grant from Aptos for [MoveDID](https://github.com/movedid)
+
+<!-- /Grants -->
