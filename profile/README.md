@@ -76,3 +76,9 @@ Article List:
 * Grant from Arweave for [arweave-based GPT Bot](https://arweave.noncegeek.com)
 
 <!-- /Grants -->
+
+## Templates
+
+See all the templates of NonceGeekDAO:
+
+> https://github.com/NonceGeek?q=&type=template&language=&sort=
