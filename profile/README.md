@@ -14,9 +14,9 @@
 ![logo_noncegeek](https://user-images.githubusercontent.com/12784118/200440329-66ad4ddc-9997-4018-8607-e78063b3c951.png)
 
 
-Cool-Oriented Web3 Programming, 面向炫酷编程.
+Cool-Oriented Web3 Programming, 面向炫酷编程。
 
-Power all the indiehackers, 助力所有独立开发者
+Power all the indiehackers, 助力所有独立开发者。
 
 Founder: [leeduckgo](https://github.com/leeduckgo), [twitter](https://x.com/0xleeduckgo)
 
