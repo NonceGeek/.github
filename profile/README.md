@@ -89,10 +89,10 @@ Article List:
 > 第 1 级，简单工作，适合新手 DAO 友。例如：[给官网实现一些小 feature](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/4)、[修正一些小 bug](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/9)
 
 * **level 0x02:** Level 2, involving independent modules of the front-end and back-end, suitable for DAO friends who already have some experience. For example: [Developing Kanban with front-end and back-end based on Github documents](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/11)
-> **level 0x02:** 第 2 级，涉及前后端的独立模块，适合已经具有一定经验的 DAO 友。例如：[基于 Github 文档开发具备前后端的的 Kanban](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/11)
+> 第 2 级，涉及前后端的独立模块，适合已经具有一定经验的 DAO 友。例如：[基于 Github 文档开发具备前后端的的 Kanban](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/11)
 
 * **level 0x03:** Level 3, for ease of management, all difficulty levels above l2 are classified as 0x03. If needed, more detailed splits will be made in the future, for example: [Database migration from `MySQL` to Supabase](https://github.com/BeWaterXYZ/bewater-frontend/issues/617)
-> **level 0x03:** 第 3 级，为管理简便起见，所有难度超过 l2 的都归类为 0x03。例如：[数据库从 `MySQL` 到 Supabase 的迁移](https://github.com/BeWaterXYZ/bewater-frontend/issues/617)
+> 第 3 级，为管理简便起见，所有难度超过 l2 的都归类为 0x03。例如：[数据库从 `MySQL` 到 Supabase 的迁移](https://github.com/BeWaterXYZ/bewater-frontend/issues/617)
 
 <!--/Issues-Level-Setting -->
 
