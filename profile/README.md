@@ -86,9 +86,9 @@ Article List:
 
 > 第 0 级，不需要任何前置知识，但有可能需要一定的设备条件。例如：提取某个音频的字幕成 `.txt` 文本
 
-* **level 0x01:** Level 1, simple work, suitable for the freshman in DAO. For example: [implement some small features for the official website[(https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/4), [fix some small bugs]
+* **level 0x01:** Level 1, simple work, suitable for the freshman in DAO. For example: [implement some small features for the official website](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/4), [fix some small bugs](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/9)
 
-> 第 1 级，简单工作，适合新手 DAO 友。例如：[给官网实现一些小 feature[(https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/4)、[修正一些小 bug](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/9)
+> 第 1 级，简单工作，适合新手 DAO 友。例如：[给官网实现一些小 feature](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/4)、[修正一些小 bug](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/9)
 
 * **level 0x02:** Level 2, involving independent modules of the front-end and back-end, suitable for DAO friends who already have some experience. For example: [Developing Kanban with front-end and back-end based on Github documents](https://github.com/NonceGeek/AI-DimSum-Lab-Homepage/issues/11)
 
