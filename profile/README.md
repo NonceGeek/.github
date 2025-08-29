@@ -22,11 +22,12 @@ Founder: [leeduckgo](https://github.com/leeduckgo), [twitter](https://x.com/0xle
 
 - [Projects Panel](https://projects.noncegeek.com/)
 
-- [BeWater Hackathon Platform & Open Buidler Network](https://bewater.xyz)
+- [AI DimSum Cantonese Corpus System](https://search.aidimsum.com)
+- [BeWater Hackathon Platform & Open Buidler Network](https://bewater.pro)
 - [Indiehacker Handbook](https://indiehacker.rootmud.xyz)
 - [Indiehacker Accelerator](https://github.com/orgs/NonceGeek/discussions)
-- [TaiShang Micro FaaS System](https://faas.movespace.xyz/)
-- [MoveDID](https://movedid.build)
+- [TaiShang AI SaaS System](https://ai-saas.rootmud.xyz/)
+- [MoveDID](https://github.com/NonceGeek/MoveDID)
 - [🌏 Homepage of NonceGeekDAO](https://noncegeek.com)
 
 
