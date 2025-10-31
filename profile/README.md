@@ -33,8 +33,10 @@ Founder: [leeduckgo](https://github.com/leeduckgo), [twitter](https://x.com/0xle
 
 Article List:
 
-> https://learnblockchain.cn/column/2
 > 微信公众号：李大狗LDG
+> 
+> https://learnblockchain.cn/column/2
+
 
 <!-- Hackathons -->
 
